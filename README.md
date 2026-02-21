@@ -11,7 +11,8 @@
 It does not print.
 It does not compute.
 It does not connect.
-It does not persist.
+It does not persist. 
+
 
 And yet — it represents the purest possible starting point of a system.
 
