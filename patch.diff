@@ -1,0 +1,84 @@
+From 0e1a62da41194c2918cf6303cf23923b1093750f Mon Sep 17 00:00:00 2001
+From: "mahg\\Manuel" <mahernandezg@gmail.com>
+Date: Thu, 13 Jul 2017 18:48:15 +0200
+Subject: [PATCH] Segundo commit
+
+---
+ .idea/misc.xml          |  4 ++++
+ .idea/modules.xml       |  8 ++++++++
+ .idea/py_helloworld.iml | 11 +++++++++++
+ .idea/vcs.xml           |  6 ++++++
+ py_helloworld.py        |  1 +
+ 5 files changed, 30 insertions(+)
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/py_helloworld.iml
+ create mode 100644 .idea/vcs.xml
+
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+index 0000000..32b1140
+--- /dev/null
++++ b/.idea/misc.xml
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.13 (C:\Python27\python.exe)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+index 0000000..cb9d694
+--- /dev/null
++++ b/.idea/modules.xml
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/py_helloworld.iml" filepath="$PROJECT_DIR$/.idea/py_helloworld.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+diff --git a/.idea/py_helloworld.iml b/.idea/py_helloworld.iml
+new file mode 100644
+index 0000000..6711606
+--- /dev/null
++++ b/.idea/py_helloworld.iml
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++  <component name="TestRunnerService">
++    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
++  </component>
++</module>
+\ No newline at end of file
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+index 0000000..94a25f7
+--- /dev/null
++++ b/.idea/vcs.xml
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+diff --git a/py_helloworld.py b/py_helloworld.py
+index e69de29..693737f 100644
+--- a/py_helloworld.py
++++ b/py_helloworld.py
+@@ -0,0 +1 @@
++#!/usr/bin/python
+\ No newline at end of file
+-- 
+2.12.2.windows.2
+
