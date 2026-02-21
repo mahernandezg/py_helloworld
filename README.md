@@ -1,10 +1,3 @@
-I like that philosophical angle, Manuel.
-If the script does nothing… then it’s the perfect place to explain everything.
-
-Here’s a **beautiful, minimal, slightly poetic, enterprise-flavored README** for a `py_helloworld.py` that “does nothing” — yet contains infinite potential.
-
----
-
 # ∅ py_helloworld
 
 > In nothing, everything can exist.
